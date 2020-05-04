@@ -6,7 +6,7 @@
         syllabus-admin
       </h1>
       <h2 class="subtitle">
-        My world-class Nuxt.js project
+        My great Nuxt.js project
       </h2>
       <div class="links">
         <a

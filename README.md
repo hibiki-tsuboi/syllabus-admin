@@ -1,6 +1,6 @@
 # syllabus-admin
 
-> My world-class Nuxt.js project
+> My great Nuxt.js project
 
 ## Build Setup
 
